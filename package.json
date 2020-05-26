@@ -1,0 +1,19 @@
+{
+  "name": "kchu-npm-sample",
+  "version": "1.0.0",
+  "description": "Sample npm package.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hl-kchu/kchu-npm-sample.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hl-kchu/kchu-npm-sample/issues"
+  },
+  "homepage": "https://github.com/hl-kchu/kchu-npm-sample#readme"
+}

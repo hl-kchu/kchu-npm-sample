@@ -7,7 +7,7 @@ Sample npm package.
 Then:
 
 ```js
-import { initialize } from 'kchu-npm-sample';
+const { initialize } = require('kchu-npm-sample');
 
 initialize();
 ```
